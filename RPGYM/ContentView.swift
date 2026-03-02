@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  RPGYM
-//
-//  Created by Marcelo Pessoa on 02/03/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
